@@ -1,0 +1,26 @@
+a {
+    color: #000;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+ul{
+    list-style: none;
+}
+
+.nav{
+    background-color: #eaffbf85;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.input-nav{
+    margin: 35px;
+}
+
+input{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 25px;
+    border-style: groove;
+}
