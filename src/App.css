@@ -24,3 +24,8 @@
   color: #61dafb;
 }
 
+.paneles{
+  display: flex;
+  flex-direction: row;
+
+}
