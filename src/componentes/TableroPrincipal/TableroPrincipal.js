@@ -1,5 +1,6 @@
 import './TableroPrincipal.css';
 
+
 const TableroPrincipal = () => {
     return(
        <div class="tablero">
